@@ -56,7 +56,7 @@ Analyze job categories and trends
 
 🚀 Getting Started
 Clone the repository:
-git clone https://github.com/your-username/Job-Portal-Analysis.git
+git clone: https://github.com/harinikumarijeyaraj/Job-Portal-SQL-Analysis
 
 For MySQL:
 Open your MySQL client (Workbench, phpMyAdmin, etc.)
